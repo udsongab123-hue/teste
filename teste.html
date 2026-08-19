@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>O Que Se Comemora Hoje?</title>
+
+    <link rel="stylesheet" href="css/sim.css">
+</head>
+
+<body>
+
+    <!-- Fundo animado -->
+    <div class="background">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+
+    <!-- CABEÇALHO -->
+    <header>
+
+        <div class="logo">
+            <span>📅</span>
+            <h1>Comemora<span>Hoje</span></h1>
+        </div>
+
+        <button id="temaBtn" class="tema-btn">
+            🌙
+        </button>
+
+    </header>
+
+    <!-- CONTEÚDO PRINCIPAL -->
+    <main>
+
+        <section class="hero">
+
+            <p class="mini-titulo">CALENDÁRIO DE COMEMORAÇÕES</p>
+
+            <h2>
+                O que se comemora
+                <span>hoje?</span>
+            </h2>
+
+            <p class="descricao">
+                Descubra as datas nacionais, mundiais e internacionais
+                comemoradas em cada dia do ano.
+            </p>
+
+            <div class="data-atual">
+                <div class="icone-data">📅</div>
+
+                <div>
+                    <p>Hoje é</p>
+                    <strong id="dataAtual">Carregando...</strong>
+                </div>
+            </div>
+
+        </section>
+
+
+        <!-- PESQUISA -->
+        <section class="pesquisa">
+
+            <h3>🔎 Procurar uma data</h3>
+
+            <div class="pesquisa-box">
+
+                <input
+                    type="date"
+                    id="dataPesquisa"
+                >
+
+                <button id="buscarBtn">
+                    Pesquisar
+                </button>
+
+            </div>
+
+            <button id="hojeBtn" class="hoje-btn">
+                📅 Voltar para hoje
+            </button>
+
+        </section>
+
+
+        <!-- RESULTADO -->
+        <section class="resultado">
+
+            <div class="titulo-secao">
+
+                <div>
+                    <p>COMEMORAÇÕES</p>
+                    <h2 id="tituloData">
+                        Hoje
+                    </h2>
+                </div>
+
+                <span id="contador">
+                    0 datas
+                </span>
+
+            </div>
+
+
+            <div id="cards" class="cards">
+
+                <!-- Os cards serão criados pelo JavaScript -->
+
+            </div>
+
+        </section>
+
+
+        <!-- CALENDÁRIO -->
+        <section class="calendario">
+
+            <div class="calendario-header">
+
+                <button id="mesAnterior">
+                    ◀
+                </button>
+
+                <h2 id="mesAno">
+                    Agosto 2026
+                </h2>
+
+                <button id="mesProximo">
+                    ▶
+                </button>
+
+            </div>
+
+            <div class="dias-semana">
+                <span>DOM</span>
+                <span>SEG</span>
+                <span>TER</span>
+                <span>QUA</span>
+                <span>QUI</span>
+                <span>SEX</span>
+                <span>SÁB</span>
+            </div>
+
+            <div id="diasCalendario" class="dias-calendario"></div>
+
+        </section>
+
+    </main>
+
+
+    <!-- RODAPÉ -->
+    <footer>
+
+        <h2>📅 ComemoraHoje</h2>
+
+        <p>
+            Descubra o que é comemorado em cada dia do ano.
+        </p>
+
+        <p class="copyright">
+            © 2026 ComemoraHoje
+        </p>
+
+    </footer>
+
+
+    <script src="teste.js"></script>
+
+</body>
+</html>
