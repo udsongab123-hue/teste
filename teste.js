@@ -184,11 +184,41 @@ const comemoracoes = {
         }
     ],
 
+   "08-20": [
+        {
+            nome: "Dia Mundial do Mosquito",
+            tipo: "mundial",
+            emoji: "🦟​​",
+            descricao:
+                "Data dedicada aos mosquitos"
+        }
+    ],
+
+   "08-21": [
+        {
+            nome: "Dia nascional da Habitação",
+            tipo: "nacional",
+            emoji: "🏠​​​",
+            descricao:
+                "Data dedicada aos mosquitos"
+        }
+    ],
+
     "08-22": [
         {
             nome: "Dia do Folclore",
             tipo: "nacional",
             emoji: "🎭",
+            descricao:
+                "Data dedicada à valorização das manifestações culturais e tradições populares brasileiras."
+        }
+    ],
+
+   "08-23": [
+        {
+            nome: "Internauta",
+            tipo: "mundial",
+            emoji: "🖥️​",
             descricao:
                 "Data dedicada à valorização das manifestações culturais e tradições populares brasileiras."
         }
