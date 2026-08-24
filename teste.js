@@ -226,13 +226,14 @@ const comemoracoes = {
 
    "08-24": [
         {
-            nome: "Dia do Artita",
+            nome: "Dia do Artista",
             tipo: "internacional",
             emoji: "🎨​",
             descricao:
                 "Data dedicada aos artistas."
         }
     ],
+
 
     "09-07": [
         {
