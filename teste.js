@@ -234,6 +234,16 @@ const comemoracoes = {
         }
     ],
 
+   "08-25": [
+        {
+            nome: "Dia do soldado no Brasil",
+            tipo: "nacional",
+            emoji: "🪖​",
+            descricao:
+                "Data dedicada aos soldados brasileiros."
+        }
+    ],
+
 
     "09-07": [
         {
