@@ -220,7 +220,17 @@ const comemoracoes = {
             tipo: "mundial",
             emoji: "🖥️​",
             descricao:
-                "Data dedicada à valorização das manifestações culturais e tradições populares brasileiras."
+                "Data dedicada para as pessoas que mexem com internet e tecnologia em geral."
+        }
+    ],
+
+   "08-24": [
+        {
+            nome: "Dia do Artita",
+            tipo: "internacional",
+            emoji: "🎨​",
+            descricao:
+                "Data dedicada aos artistas."
         }
     ],
 
