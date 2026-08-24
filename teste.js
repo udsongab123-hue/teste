@@ -240,7 +240,7 @@ const comemoracoes = {
             tipo: "nacional",
             emoji: "🪖​",
             descricao:
-                "Data dedicada aos soldados brasileiros."
+                "Data dedicado aos soldados brasileiros."
         }
     ],
 
