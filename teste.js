@@ -244,6 +244,16 @@ const comemoracoes = {
         }
     ],
 
+   "08-26": [
+        {
+            nome: "Dia Mundial do Cachorro",
+            tipo: "mundial",
+            emoji: "🐶​",
+            descricao:
+                "Data dedicado aos cachorros"
+        }
+    ],
+
 
     "09-07": [
         {
