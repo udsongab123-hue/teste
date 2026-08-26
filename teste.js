@@ -246,7 +246,7 @@ const comemoracoes = {
 
    "08-26": [
         {
-            nome: "Dia Mundial do Cachorro",
+            nome: "Dia do Cachorro",
             tipo: "mundial",
             emoji: "🐶​",
             descricao:
@@ -261,6 +261,36 @@ const comemoracoes = {
             emoji: "🧑‍💼",
             descricao:
                 "Homenageia a profissão regulamentada no Brasil em 27 de agosto de 1962 pela Lei nº 4.119"
+        }
+    ],
+
+   "08-28": [
+        {
+            nome: "Dia do Voluntariado",
+            tipo: "nacional",
+            emoji: "👩‍🔧",
+            descricao:
+                "Homenageia as pessoas que doam tempo e trabalho sem receber pagamento."
+        }
+    ],
+
+   "08-29": [
+        {
+            nome: "Dia do Combate ao Fumo",
+            tipo: "nacional",
+            emoji: "🙅‍♂️",
+            descricao:
+                "Criado em 1986 pela Lei nº 7.488 para alertar a população sobre os perigos do tabagismo."
+        }
+    ],
+
+   "08-30": [
+        {
+            nome: "Dia do perdão",
+            tipo: "nacional",
+            emoji: "🙇‍♂️",
+            descricao:
+                "Data instituída no Brasil para incentivar a reflexão sobre a importância do perdão."
         }
     ],
 
