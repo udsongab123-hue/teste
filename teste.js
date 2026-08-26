@@ -286,7 +286,7 @@ const comemoracoes = {
 
    "08-30": [
         {
-            nome: "Dia do perdão",
+            nome: "Dia do Perdão",
             tipo: "nacional",
             emoji: "🙇‍♂️",
             descricao:
