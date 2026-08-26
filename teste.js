@@ -254,6 +254,16 @@ const comemoracoes = {
         }
     ],
 
+   "08-27": [
+        {
+            nome: "Dia do Psicólogo",
+            tipo: "nacional",
+            emoji: "🧑‍💼",
+            descricao:
+                "Homenageia a profissão regulamentada no Brasil em 27 de agosto de 1962 pela Lei nº 4.119"
+        }
+    ],
+
 
     "09-07": [
         {
