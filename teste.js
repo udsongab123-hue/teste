@@ -294,6 +294,16 @@ const comemoracoes = {
         }
     ],
 
+   "08-31": [
+        {
+            nome: "Dia do Nutricionista",
+            tipo: "nacional",
+            emoji: "👩‍⚕️",
+            descricao:
+                "Homenageia os profissionais da saúde responsáveis pela alimentação equilibrada, data escolhida em alusão à fundação da antiga Associação Brasileira de Nutricionistas em 1949."
+        }
+    ],
+
 
     "09-07": [
         {
