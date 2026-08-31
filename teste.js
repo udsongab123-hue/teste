@@ -305,6 +305,16 @@ const comemoracoes = {
     ],
 
 
+   "09-01": [
+        {
+            nome: "Dia do professor de Educação física",
+            tipo: "nacional",
+            emoji: "🏋️‍♂️",
+            descricao:
+                "Homenageia quem cuida da saúde e do movimento do corpo. A data marca o dia em que a lei que regulamentou a profissão entrou em vigor, em 1998."
+        }
+    ],
+
     "09-07": [
         {
             nome: "Independência do Brasil",
