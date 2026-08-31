@@ -196,7 +196,7 @@ const comemoracoes = {
 
    "08-21": [
         {
-            nome: "Dia nascional da Habitação",
+            nome: "Dia nacional da Habitação",
             tipo: "nacional",
             emoji: "🏠​​​",
             descricao:
