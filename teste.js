@@ -315,6 +315,16 @@ const comemoracoes = {
         }
     ],
 
+   "09-02": [
+        {
+            nome: "Dia do Reporter Fotografico",
+            tipo: "nacional",
+            emoji: "📹",
+            descricao:
+                "Homenageia o profissional de imprensa que registra fatos históricos e sociais através de imagens. A data remonta ao ano de 1880, quando foi publicada a primeira foto em um jornal diário."
+        }
+    ],
+
     "09-07": [
         {
             nome: "Independência do Brasil",
