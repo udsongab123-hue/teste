@@ -325,6 +325,16 @@ const comemoracoes = {
         }
     ],
 
+   "09-03": [
+        {
+            nome: "Dia do Biólogo",
+            tipo: "nacional",
+            emoji: "🧑‍🔬",
+            descricao:
+                "A data lembra a regulamentação da profissão no país pela Lei nº 6.684 em 1979, que também criou os conselhos federal e regionais da categoria."
+        }
+    ],
+
     "09-07": [
         {
             nome: "Independência do Brasil",
