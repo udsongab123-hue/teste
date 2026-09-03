@@ -335,6 +335,16 @@ const comemoracoes = {
         }
     ],
 
+   "09-04": [
+        {
+            nome: "Dia do Taekwondo",
+            tipo: "mundial",
+            emoji: "🤼‍♂️",
+            descricao:
+                "marca a inclusão do esporte nos Jogos Olímpicos em 1994"
+        }
+    ],
+
     "09-07": [
         {
             nome: "Independência do Brasil",
